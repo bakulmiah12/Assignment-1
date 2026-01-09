@@ -80,6 +80,7 @@ banner .image {
 }
 .par {
   /* border: 3px solid greenyellow; */
+  
 }
 .cardPar {
   padding-top: 30px;
@@ -108,4 +109,40 @@ banner .image {
 }
 .first {
   border: 3px solid green;
+}
+.sec{
+  background-color: 3px solid red;
+  width: 500px;
+  height: 400px;
+}
+.third{
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+
+
+  
+}
+footer{
+  display: flex;
+  gap:1100px;
+  
+}
+.footerlink,a{
+  display: flex;
+  height: 10px;
+  width: 15px;
+  
+  
+  
+
+  
+  
+}
+.footerlink{
+  
+  
+}
+.footerlogo{
+  
 }
