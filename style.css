@@ -33,12 +33,12 @@
   text-align: center;
   color: #30b868;
 }
-banner .image {
+ .image {
   width: 1600px;
   height: 685px;
 }
 .hero {
-  background-image: url("/assets/hero-bg.png");
+  background-image: url("./assets/hero-bg.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -79,9 +79,8 @@ banner .image {
   margin-right: 30px;
   text-align: center;
 }
-.par {
-  /* border: 3px solid greenyellow; */
-}
+
+  
 .cardPar {
   padding-top: 30px;
   display: flex;
@@ -128,8 +127,7 @@ a {
   height: 10px;
   width: 15px;
 }
-.list-item {
-}
+
 .parent {
   text-align: center;
   color: grey;
